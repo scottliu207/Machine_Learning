@@ -1,3 +1,2 @@
-"# Machine_Learning" 
+# Machine learning course and exercises.
 
-Machine learning course on Coursera
